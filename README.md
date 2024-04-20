@@ -1,7 +1,3 @@
-# Sukka Ruleset
-
-由 [Sukka](https://skk.moe) 搜集、整理、维护的、个人自用的、适用于 [Surge](https://nssurge.com/) 和 [Clash Premium](https://dreamacro.github.io/clash/) 的 Ruleset Snippet。
-
 ## 条款和协议
 
 本项目除 `List/ip/china_ip.conf` 文件使用 CC BY-SA 2.0 协议分享以外，均使用 AGPL-3.0 协议开源，不提供任何担保，即：**本项目的作者和所有贡献者不会提供任何技术支持，也不会对你的任何损失负责**，包括但不限于：你的软件无法启动和正常工作、Kernel Panic、设备无法开机或正常使用、硬盘损坏或数据丢失、原子弹爆炸、第三次世界大战、[SCP 基金会](https://scp-wiki-cn.wikidot.com/) 无法阻止的全球 CK 级现实重构等。
